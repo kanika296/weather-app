@@ -7,6 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## API
+ I used the weather API that provides you the current temperature as a json response. 
+Here's the link to the weather API: http://api.weatherapi.com/v1/current.json?key=${}&q=${city}&aqi=yes`
+Documentation: https://www.weatherapi.com/api-explorer.aspx
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1291" alt="image" src="https://github.com/user-attachments/assets/8fa08c31-1e72-46eb-968e-4a2d8c4652b9" />
+
